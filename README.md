@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center"> 📬 Contacts 📬 </h3>
+<!--<h3 align="center"> 📬 Contacts 📬 </h3>
 <p align="center">
   <a href="mailto:yejin.jin357@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&linkyejin.jin357@gmail.com"/>
@@ -26,6 +26,15 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yebap2/"/>
   </a>
   &nbsp
-</p>
+</p>-->
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JINYEBAP&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/JINYEBAP?pet-id=688323021956279216"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=548246&height=150&section=footer)
